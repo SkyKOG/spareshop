@@ -20,6 +20,10 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 gem 'high_voltage'
 
+# Use haml
+gem 'haml'
+gem 'haml-rails'
+
 gem 'sitemap_generator'
 
 # Use jquery as the JavaScript library
